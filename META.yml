@@ -13,4 +13,7 @@ meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: 1.4
 name: Mildew-Setting-SMOP
-version: 0.01
+requires:
+  Mildew: 0.03
+  SMOP: 0.03
+version: 0.02

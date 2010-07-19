@@ -1,7 +1,7 @@
 #ABSTRACT: the setting for mildew compiled for SMOP
 package Mildew::Setting::SMOP;
 BEGIN {
-  $Mildew::Setting::SMOP::VERSION = '0.01';
+  $Mildew::Setting::SMOP::VERSION = '0.02';
 }
 use File::ShareDir qw(dist_dir);
 sub ld_library_path {
