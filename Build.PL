@@ -17,14 +17,14 @@ my %module_build_args = (
     'Pawel Murias <pawelmurias@gmail.com>'
   ],
   'dist_name' => 'Mildew-Setting-SMOP',
-  'dist_version' => '0.02',
+  'dist_version' => '0.03',
   'license' => 'artistic_2',
   'module_name' => 'Mildew::Setting::SMOP',
   'recommends' => {},
   'recursive_test_files' => 1,
   'requires' => {
-    'Mildew' => '0.03',
-    'SMOP' => '0.03'
+    'Mildew' => '0.05',
+    'SMOP' => '0.06'
   },
   'script_files' => []
 );
